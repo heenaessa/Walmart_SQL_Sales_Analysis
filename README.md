@@ -171,4 +171,4 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
-Thanks @CodeWithPrince for credits.
+Thanks @CodeWithPrince for your guidence.
