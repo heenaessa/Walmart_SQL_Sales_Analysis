@@ -50,13 +50,15 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ## Approach Used
 
-1. **Data Wrangling:** This is the first step where inspection of data is done to make sure **NULL** values and missing values are detected and data replacement methods are used to replace, missing or **NULL** values.
+1. **Data Wrangling:**
+This is the first step where inspection of data is done to make sure **NULL** values and missing values are detected and data replacement methods are used to replace, missing or **NULL** values.
 
 > 1. Build a database
 > 2. Create table and insert the data.
 > 3. Select columns with null values in them. There are no null values in our database as in creating the tables, we set **NOT NULL** for each field, hence null values are filtered out.
 
-2. **Feature Engineering:** This will help use generate some new columns from existing ones.
+2. **Feature Engineering:**
+This will help use generate some new columns from existing ones.
 
 > 1. Add a new column named `time_of_day` to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 
@@ -64,9 +66,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 > 3. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
-2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
+2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project. To explore the sales performance of Walmart branches, we can analyze various aspects such as total revenue, top-selling products, and gross income. Here’s how we can approach it using SQL.
 
-3. **Conclusion:**
+3. **Conclusion:** The data analysis project at Walmart involved analyzing its sales data using SQL queries to gain insights into its operations and performance. The analysis focused on overall sales performance, customer behavior, and product performance. By examining total revenue and profit across different regions, branches, and product lines, the team was able to understand Walmart's standing in terms of sales and profitability. The segmentation of customers based on demographic information allowed for better understanding of their preferences and purchasing patterns. The analysis also revealed top-selling products within each customer segment, helping to identify which ones drive revenue and which need further attention. The findings can help Walmart stay competitive and successful in the retail landscape.
 
 ## Business Questions To Answer
 
