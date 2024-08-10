@@ -66,7 +66,7 @@ This will help use generate some new columns from existing ones.
 
 > 3. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
-2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project. To explore the sales performance of Walmart branches, we can analyze various aspects such as total revenue, top-selling products, and gross income. Here’s how we can approach it using SQL.
+2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project. To explore the sales performance of Walmart branches, we can analyze various aspects such as total revenue, top-selling products, and gross income. 
 
 3. **Conclusion:** The data analysis project at Walmart involved analyzing its sales data using SQL queries to gain insights into its operations and performance. The analysis focused on overall sales performance, customer behavior, and product performance. By examining total revenue and profit across different regions, branches, and product lines, the team was able to understand Walmart's standing in terms of sales and profitability. The segmentation of customers based on demographic information allowed for better understanding of their preferences and purchasing patterns. The analysis also revealed top-selling products within each customer segment, helping to identify which ones drive revenue and which need further attention. The findings can help Walmart stay competitive and successful in the retail landscape.
 
